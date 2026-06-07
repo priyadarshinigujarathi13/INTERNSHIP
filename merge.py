@@ -20,3 +20,4 @@ result = pd.merge(df1, df2, on="ID", how="left")
 print(result)
 result = pd.merge(df1, df2, on="ID", how="right")
 print(result)
+#Merge is used to combine two DataFrames based on a common column.

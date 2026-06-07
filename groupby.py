@@ -46,3 +46,4 @@ result = df.groupby("Team").agg(
 
 print(result)
 
+#GroupBy is used to group similar records and perform operations like sum, mean, count.
